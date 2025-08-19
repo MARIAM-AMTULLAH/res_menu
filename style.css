@@ -39,7 +39,7 @@ li{
 
 #container{
  
-    background-image: url('background.jpeg');
+    background-image: url('Images/background.jpeg');
     display: flex;
     flex-direction: column;
     justify-content: center;
